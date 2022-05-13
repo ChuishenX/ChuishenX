@@ -10,6 +10,6 @@ Code is a way of life.
 
 Code is a way to express ourselves.
 
-Code is something that beyond gods.
+Code is something beyond gods.
 
 Code makes the greatest sins and the greatest sacrifice small.
