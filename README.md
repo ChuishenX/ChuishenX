@@ -1,4 +1,6 @@
-<code>超人会是系着披风的维特鲁威人，他告诉我们每个人在衬衫下一直有团火焰在燃烧。    —格兰特•莫里森</code>
+#### Superman would be the Vitruvian man in the cape, 
+#### and he told us everyone had a fire burning under their shirts all the time. 
+#### --Grant Morrison
 
 ### Is code only a tool which we uses to build softwares?
 
@@ -9,3 +11,5 @@ Code is a way of life.
 Code is a way to express ourselves.
 
 Code is something that beyond gods.
+
+Code makes the greatest sins and the greatest sacrifice small.
