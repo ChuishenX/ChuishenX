@@ -1,8 +1,8 @@
-#### Superman would be the Vitruvian man in the cape, 
-#### and he told us everyone had a fire burning under their shirts all the time. 
-#### --Grant Morrison
+### Superman would be the Vitruvian man in the cape, 
+### and he told us everyone had a fire burning under their shirts all the time. 
+### --Grant Morrison
 
-### Is code only a tool which we uses to build softwares?
+Is code only a tool which we uses to build softwares?
 
 Code is more than that.
 
